@@ -28,5 +28,9 @@
   height: 150px;
   width: 150px;
   border: 1px solid #000;
-  background-color: aquamarine;
+  background-color: #7fffd4;
+}
+
+.enemy{
+  background-color: #f00;
 }
